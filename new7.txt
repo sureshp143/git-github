@@ -1,1 +1,2 @@
 Welcome new7 file.
+git stash testing.
